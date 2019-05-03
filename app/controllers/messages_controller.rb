@@ -1,6 +1,6 @@
 class MessagesController < ApplicationController
   def hello
-    @hello = 'hello view'
+    @hello = 'プログラミングキャンプなう'
   end
 end
 
